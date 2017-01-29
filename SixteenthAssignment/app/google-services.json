@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "781262451594",
+    "project_id": "sixteenthassignment"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781262451594:android:35c51f9c8d1d7889",
+        "android_client_info": {
+          "package_name": "com.example.shaloin.sixteenthassignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781262451594-0iiq8h4nuui7biks7em5uf5vpqe8s23m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shaloin.sixteenthassignment",
+            "certificate_hash": "8A83A3B5EEAA3B7D73F01F39F0FA2BF68E75823B"
+          }
+        },
+        {
+          "client_id": "781262451594-dq5migj2fiu7itiolpho41m4fhje25ai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuI766w4THtVlRAfr4L2NWrml1JcnSal4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
